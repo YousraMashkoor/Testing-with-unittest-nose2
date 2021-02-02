@@ -1,7 +1,7 @@
 # Testing-with-unittest-nose2
 1. Create a python3 venv 
 
--sudo su
+* sudo su
 * python3 -m venv venv
 * apt-get install python3-venv #if not already
 * sudo -u yousra -H bash
